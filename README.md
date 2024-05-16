@@ -26,3 +26,9 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/aecortega/Ull-act10-0453/assets/143548446/1416f501-ba96-4e81-ba2a-3a0c91372bc0)
 ![image](https://github.com/aecortega/Ull-act10-0453/assets/143548446/abb96903-aeb6-4589-8e48-a689c2ce282b)
 ![image](https://github.com/aecortega/Ull-act10-0453/assets/143548446/60e9d550-cfff-4138-bc2f-ec0c82a53a9b)
+
+## Links referencia
+https://codesinsider.com/flutter-textfield-widget-tutorial/
+https://blog.logrocket.com/the-ultimate-guide-to-text-fields-in-flutter/
+https://youtu.be/BpN5f_747pI?si=ku6bZ52ipIrOOBhT
+
